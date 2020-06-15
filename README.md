@@ -16,5 +16,5 @@ If you install new packages, remember to update `Dockerfile`:
 
 ### Deployment settings
 
-* Build image: `docker build -t personal=website`
-* Run container: `docker run -d -p 80:9090 personal=website` 
+* Build image: `docker build -t personal-website`
+* Run container: `docker run -d -p 80:9090 personal-website` 
